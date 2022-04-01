@@ -1,0 +1,2 @@
+# __CRUD_GO_GIN__
+__CRUD_GO_GIN__
